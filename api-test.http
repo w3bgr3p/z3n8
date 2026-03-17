@@ -2,7 +2,8 @@
 ### Задачи
 GET http://localhost:38109/http-logs?limit=50
 
-
+### report
+GET http://localhost:38109/report/api/projects-db
 
 ### Настройки задачи
 GET http://localhost:38109/zp/settings-xml?task_id=92ca9a3d-a8dc-4690-9ecc-2e34265f8c76

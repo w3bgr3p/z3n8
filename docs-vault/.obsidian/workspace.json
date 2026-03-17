@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "e80512cb279b8d4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d1fba1fb3ed977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40a9faf61598c3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "685d59b0145df684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0cf2a88a410a166",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49eb3e2502ac0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1508c838cec96633",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27453eeff7c70c12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77a45543a85b9340",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52fddf13f4600987",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f3625932958553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9695366bbe0f871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Onboarding/Config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Config"
+            }
+          },
+          {
+            "id": "8364e051ff97755a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Onboarding/Config.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Config"
+            }
+          },
+          {
+            "id": "a58fcdd8228ade47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa22b95b0da56175",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "eda86dd8edad7e50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Onboarding/Config.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Config"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "40a9faf61598c3f9",
+  "lastOpenFiles": [
+    "Pages/shift + ctrl + H.    Docs.md",
+    "Pages/shift + ctrl + 8.    Clips.md",
+    "Pages/shift + ctrl + 7.    Text Tools.md",
+    "Pages/shift + ctrl + 6.    JSON.md",
+    "Pages/shift + ctrl + 5.    HTTP.md",
+    "Pages/shift + ctrl + 4.    Logs.md",
+    "Pages/shift + ctrl + 3.    ZB.md",
+    "Pages/shift + ctrl + 2.    ZP7.md",
+    "Pages/shift + ctrl + 1.    z3n8 (Scheduler).md",
+    "Pages/shift + ctrl + 0.    Config.md",
+    "Pages/Nav Dock.md",
+    "Onboarding/01. Настройка сервера.md",
+    "index.md",
+    "Config.md",
+    "Overview.md",
+    "Pasted image 20260316181215.png",
+    "new topic.md",
+    "Pages/not implemented",
+    "Pages/not implemented/XML Converter not Implemented.md",
+    "Pages/PM.md",
+    "Onboarding/02. Добавление машины воркера.md",
+    "Onboarding/03. SAFU — Архитектура.md",
+    "Onboarding/Подключение к ферме.md",
+    "Pages",
+    "Config — Import (Fill DB).md",
+    "Onboarding"
+  ]
+}
