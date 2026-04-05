@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6d1fba1fb3ed977",
+        "id": "88797f26569b5fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "40a9faf61598c3f9",
+            "id": "6496accb657c98a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "685d59b0145df684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -92,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 597.5
   },
   "right": {
     "id": "52fddf13f4600987",
@@ -197,33 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "40a9faf61598c3f9",
+  "active": "1508c838cec96633",
   "lastOpenFiles": [
-    "Pages/shift + ctrl + H.    Docs.md",
-    "Pages/shift + ctrl + 8.    Clips.md",
-    "Pages/shift + ctrl + 7.    Text Tools.md",
-    "Pages/shift + ctrl + 6.    JSON.md",
-    "Pages/shift + ctrl + 5.    HTTP.md",
-    "Pages/shift + ctrl + 4.    Logs.md",
-    "Pages/shift + ctrl + 3.    ZB.md",
-    "Pages/shift + ctrl + 2.    ZP7.md",
-    "Pages/shift + ctrl + 1.    z3nIO (Scheduler).md",
-    "Pages/shift + ctrl + 0.    Config.md",
-    "Pages/Nav Dock.md",
-    "Onboarding/01. Настройка сервера.md",
     "index.md",
-    "Config.md",
-    "Overview.md",
-    "Pasted image 20260316181215.png",
-    "new topic.md",
-    "Pages/not implemented",
-    "Pages/not implemented/XML Converter not Implemented.md",
-    "Pages/PM.md",
-    "Onboarding/02. Добавление машины воркера.md",
+    "Onboarding/02. Добавление ZennoPoster воркера в локальной сети.md",
+    "Onboarding/01. Настройка сервера.md",
+    "Onboarding",
+    "Navigation/Pages/ZB.md",
+    "Navigation/Pages/ZP7.md",
+    "Navigation/Pages/Treasury.md",
+    "Navigation/Pages/Text Tools.md",
+    "Navigation/Pages/Tasker.md",
+    "Navigation/Pages/JSON.md",
+    "Navigation/Pages/System Snapshot.md",
+    "Navigation/Pages/Report.md",
+    "Navigation/Pages/Logs.md",
+    "Navigation/Pages/HTTP.md",
+    "Navigation/Pages/Docs.md",
+    "Navigation/Pages/Graph.md",
+    "Navigation/Pages/Config.md",
+    "Navigation/Pages/Clips.md",
+    "Navigation/Pages/AI Report.md",
+    "Navigation/Pages",
+    "Navigation/Nav Dock.md",
+    "Navigation",
     "Onboarding/03. SAFU — Архитектура.md",
-    "Onboarding/Подключение к ферме.md",
-    "Pages",
-    "Config — Import (Fill DB).md",
-    "Onboarding"
+    "Navigation/Pages/Docs (old).md",
+    "Onboarding/sedVQQcTe",
+    "Onboarding/sedbIfUtf",
+    "Onboarding/sed6hZIDx",
+    "Navigation/Pages/sedeiXpUc",
+    "Navigation/Pages/sedUebCQ3",
+    "Navigation/Pages/sedxYYQVn",
+    "Navigation/Pages/sedQ1XlUz",
+    "Navigation/Pages/not implemented/XML Converter not Implemented.md",
+    "Navigation/Pages/alt + 4.    Logs.md",
+    "shift + ctrl + 1.    z3nIO (Scheduler).md",
+    "Navigation/Pages/alt + 0.    Config.md",
+    "Pasted image 20260316181215.png"
   ]
 }
